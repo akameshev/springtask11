@@ -1,8 +1,8 @@
-package org.project.springtask10.service;
+package org.project.springtask11.service;
 
 import lombok.AllArgsConstructor;
-import org.project.springtask10.model.User;
-import org.project.springtask10.repository.UserRepository;
+import org.project.springtask11.model.User;
+import org.project.springtask11.repository.UserRepository;
 import org.springframework.stereotype.Service;
 
 import java.util.List;

@@ -1,6 +1,6 @@
-package org.project.springtask10.repository;
+package org.project.springtask11.repository;
 
-import org.project.springtask10.model.User;
+import org.project.springtask11.model.User;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 

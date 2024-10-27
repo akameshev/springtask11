@@ -1,4 +1,4 @@
-package org.project.springtask10;
+package org.project.springtask11;
 
 import org.junit.jupiter.api.Test;
 import org.junit.jupiter.api.extension.ExtendWith;
@@ -6,9 +6,9 @@ import org.mockito.InjectMocks;
 import org.mockito.Mock;
 import org.mockito.Mockito;
 import org.mockito.junit.jupiter.MockitoExtension;
-import org.project.springtask10.model.User;
-import org.project.springtask10.repository.UserRepository;
-import org.project.springtask10.service.UserService;
+import org.project.springtask11.model.User;
+import org.project.springtask11.repository.UserRepository;
+import org.project.springtask11.service.UserService;
 
 import java.util.Arrays;
 import java.util.List;
